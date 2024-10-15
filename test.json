@@ -1,0 +1,17 @@
+[
+    {
+      "endpoint": "https://jsonplaceholder.typicode.com/posts",
+      "method": "GET",
+      "requestType": "application/json",
+      "requests": [
+        {
+          "name": "userId",
+          "type": "int",
+          "requestType": "param",
+          "required": true,
+          "description": "The unique identifier for the user."
+        }
+      ]
+    }
+  ]
+  
