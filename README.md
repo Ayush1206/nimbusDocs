@@ -93,7 +93,7 @@ If you want to contribute to NimbusDocs:
 ### Contact
 If you have any questions or suggestions, feel free to reach out:
 - GitHub: [Ayush1206](https://github.com/Ayush1206)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- Email: [ayushmishra.1206@gmail.com](mailto:ayushmishra.1206@gmail.com)
 
 ### Acknowledgements
 - **Swagger**: For inspiring the design and concept.
